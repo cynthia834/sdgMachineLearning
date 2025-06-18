@@ -18,7 +18,7 @@ Greenhouse gas emissions are a primary contributor to climate change. Government
 ## 🖼️ Demo Screenshots
 | Data Preview | Model Evaluation | Prediction Graph |
 |--------------|------------------|------------------|
-| ![Data](screenshots/data.png) | ![Eval](screenshots/metrics.png) | ![Graph](screenshots/plot.png) |
+| ![Data](screenshot/data.png) | ![Eval](screenshot/metrics.txt) | ![Graph](screenshot/plot.png) |
 
 ## 📁 Files Included
 - `SDG13_GHG_Emissions_Predictor.ipynb`: Jupyter notebook with full code
